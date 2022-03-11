@@ -1,5 +1,5 @@
 {
-  "name": "polar-shared",
+  "name": "gix-polar-shared",
   "version": "1.32.54",
   "description": "",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/burtonator/polar-shared.git"
+    "url": "git+https://github.com/GuillaumeIsabelleX/gix-polar-shared.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/burtonator/polar-shared/issues"
+    "url": "https://github.com/GuillaumeIsabelleX/gix-polar-shared/issues"
   },
-  "homepage": "https://github.com/burtonator/polar-shared#readme",
+  "homepage": "https://github.com/GuillaumeIsabelleX/gix-polar-shared#readme",
   "devDependencies": {
     "@types/chai": "^4.2.1",
     "@types/mocha": "^5.2.7",
